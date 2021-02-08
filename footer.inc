@@ -1,0 +1,1 @@
+<br><div class="alert alert-dark" align="center">Bản quyền thuộc về <a href="index.php"><b>XUÂN TUYẾN Network</b></a></div>
